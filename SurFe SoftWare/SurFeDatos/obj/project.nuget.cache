@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Vt1NkAvpija1y13x7LhjUqkmbt3vUJuVxYr4NtF8x6ZtQwRxF6PO9NNmULwkT2cF/PgmD9uzJfWN+MrnlPVClg==",
+  "dgSpecHash": "XkcP9lDJQmL2CKmkcX2u2NtYU2XIxgjXPqygtVxjSZIYKcJ/BT2dDsf5NDEYKGTOBD8QYBIYPxfra4RLH25Lyw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\EZE\\source\\repos\\SurFeFIN\\SurFe\\SurFe SoftWare\\SurFeDatos\\SurFeDatos.csproj",
+  "projectFilePath": "C:\\Users\\EZE\\source\\repos\\sistemas4\\SIstemas4\\SurFe SoftWare\\SurFeDatos\\SurFeDatos.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\EZE\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\EZE\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

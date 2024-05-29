@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZGcWKLTHjcqjzrEt5pOW4PZEYMVgd5lDem4CtFn9HqnHRix4NY6rLR83r3gRY71bxlrUc8cbupO5Af2+/jwQww==",
+  "dgSpecHash": "ZeqRFfYzjdOwG48b/Bc0JeRBpeu3uAF3GSRDsZd3Oc8A+O7t6f7GA1vhttm4Ffke+C1aC49bMEVtg7AEx6qQZA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\EZE\\source\\repos\\SurFeFIN\\SurFe\\SurFe SoftWare\\SurFeFront\\SurFeFront.csproj",
+  "projectFilePath": "C:\\Users\\EZE\\source\\repos\\sistemas4\\SIstemas4\\SurFe SoftWare\\SurFeFront\\SurFeFront.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\EZE\\.nuget\\packages\\bouncycastle\\1.8.9\\bouncycastle.1.8.9.nupkg.sha512",
     "C:\\Users\\EZE\\.nuget\\packages\\itextsharp\\5.5.13.3\\itextsharp.5.5.13.3.nupkg.sha512",

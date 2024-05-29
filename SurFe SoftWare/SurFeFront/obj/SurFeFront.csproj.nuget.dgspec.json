@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\EZE\\source\\repos\\SurFeFIN\\SurFe\\SurFe SoftWare\\SurFeFront\\SurFeFront.csproj": {}
+    "C:\\Users\\EZE\\source\\repos\\sistemas4\\SIstemas4\\SurFe SoftWare\\SurFeFront\\SurFeFront.csproj": {}
   },
   "projects": {
-    "C:\\Users\\EZE\\source\\repos\\SurFeFIN\\SurFe\\SurFe SoftWare\\SurFeDatos\\SurFeDatos.csproj": {
+    "C:\\Users\\EZE\\source\\repos\\sistemas4\\SIstemas4\\SurFe SoftWare\\SurFeDatos\\SurFeDatos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\EZE\\source\\repos\\SurFeFIN\\SurFe\\SurFe SoftWare\\SurFeDatos\\SurFeDatos.csproj",
+        "projectUniqueName": "C:\\Users\\EZE\\source\\repos\\sistemas4\\SIstemas4\\SurFe SoftWare\\SurFeDatos\\SurFeDatos.csproj",
         "projectName": "SurFeDatos",
-        "projectPath": "C:\\Users\\EZE\\source\\repos\\SurFeFIN\\SurFe\\SurFe SoftWare\\SurFeDatos\\SurFeDatos.csproj",
+        "projectPath": "C:\\Users\\EZE\\source\\repos\\sistemas4\\SIstemas4\\SurFe SoftWare\\SurFeDatos\\SurFeDatos.csproj",
         "packagesPath": "C:\\Users\\EZE\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\EZE\\source\\repos\\SurFeFIN\\SurFe\\SurFe SoftWare\\SurFeDatos\\obj\\",
+        "outputPath": "C:\\Users\\EZE\\source\\repos\\sistemas4\\SIstemas4\\SurFe SoftWare\\SurFeDatos\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,8 +33,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\EZE\\source\\repos\\SurFeFIN\\SurFe\\SurFe SoftWare\\SurFeEntidades\\SurFeEntidades.csproj": {
-                "projectPath": "C:\\Users\\EZE\\source\\repos\\SurFeFIN\\SurFe\\SurFe SoftWare\\SurFeEntidades\\SurFeEntidades.csproj"
+              "C:\\Users\\EZE\\source\\repos\\sistemas4\\SIstemas4\\SurFe SoftWare\\SurFeEntidades\\SurFeEntidades.csproj": {
+                "projectPath": "C:\\Users\\EZE\\source\\repos\\sistemas4\\SIstemas4\\SurFe SoftWare\\SurFeEntidades\\SurFeEntidades.csproj"
               }
             }
           }
@@ -78,14 +78,14 @@
         }
       }
     },
-    "C:\\Users\\EZE\\source\\repos\\SurFeFIN\\SurFe\\SurFe SoftWare\\SurFeEntidades\\SurFeEntidades.csproj": {
+    "C:\\Users\\EZE\\source\\repos\\sistemas4\\SIstemas4\\SurFe SoftWare\\SurFeEntidades\\SurFeEntidades.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\EZE\\source\\repos\\SurFeFIN\\SurFe\\SurFe SoftWare\\SurFeEntidades\\SurFeEntidades.csproj",
+        "projectUniqueName": "C:\\Users\\EZE\\source\\repos\\sistemas4\\SIstemas4\\SurFe SoftWare\\SurFeEntidades\\SurFeEntidades.csproj",
         "projectName": "SurFeEntidades",
-        "projectPath": "C:\\Users\\EZE\\source\\repos\\SurFeFIN\\SurFe\\SurFe SoftWare\\SurFeEntidades\\SurFeEntidades.csproj",
+        "projectPath": "C:\\Users\\EZE\\source\\repos\\sistemas4\\SIstemas4\\SurFe SoftWare\\SurFeEntidades\\SurFeEntidades.csproj",
         "packagesPath": "C:\\Users\\EZE\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\EZE\\source\\repos\\SurFeFIN\\SurFe\\SurFe SoftWare\\SurFeEntidades\\obj\\",
+        "outputPath": "C:\\Users\\EZE\\source\\repos\\sistemas4\\SIstemas4\\SurFe SoftWare\\SurFeEntidades\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -138,14 +138,14 @@
         }
       }
     },
-    "C:\\Users\\EZE\\source\\repos\\SurFeFIN\\SurFe\\SurFe SoftWare\\SurFeFront\\SurFeFront.csproj": {
+    "C:\\Users\\EZE\\source\\repos\\sistemas4\\SIstemas4\\SurFe SoftWare\\SurFeFront\\SurFeFront.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\EZE\\source\\repos\\SurFeFIN\\SurFe\\SurFe SoftWare\\SurFeFront\\SurFeFront.csproj",
+        "projectUniqueName": "C:\\Users\\EZE\\source\\repos\\sistemas4\\SIstemas4\\SurFe SoftWare\\SurFeFront\\SurFeFront.csproj",
         "projectName": "SurFeFront",
-        "projectPath": "C:\\Users\\EZE\\source\\repos\\SurFeFIN\\SurFe\\SurFe SoftWare\\SurFeFront\\SurFeFront.csproj",
+        "projectPath": "C:\\Users\\EZE\\source\\repos\\sistemas4\\SIstemas4\\SurFe SoftWare\\SurFeFront\\SurFeFront.csproj",
         "packagesPath": "C:\\Users\\EZE\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\EZE\\source\\repos\\SurFeFIN\\SurFe\\SurFe SoftWare\\SurFeFront\\obj\\",
+        "outputPath": "C:\\Users\\EZE\\source\\repos\\sistemas4\\SIstemas4\\SurFe SoftWare\\SurFeFront\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -167,11 +167,11 @@
           "net6.0-windows7.0": {
             "targetAlias": "net6.0-windows",
             "projectReferences": {
-              "C:\\Users\\EZE\\source\\repos\\SurFeFIN\\SurFe\\SurFe SoftWare\\SurFeEntidades\\SurFeEntidades.csproj": {
-                "projectPath": "C:\\Users\\EZE\\source\\repos\\SurFeFIN\\SurFe\\SurFe SoftWare\\SurFeEntidades\\SurFeEntidades.csproj"
+              "C:\\Users\\EZE\\source\\repos\\sistemas4\\SIstemas4\\SurFe SoftWare\\SurFeEntidades\\SurFeEntidades.csproj": {
+                "projectPath": "C:\\Users\\EZE\\source\\repos\\sistemas4\\SIstemas4\\SurFe SoftWare\\SurFeEntidades\\SurFeEntidades.csproj"
               },
-              "C:\\Users\\EZE\\source\\repos\\SurFeFIN\\SurFe\\SurFe SoftWare\\SurFeNegocio\\SurFeNegocio.csproj": {
-                "projectPath": "C:\\Users\\EZE\\source\\repos\\SurFeFIN\\SurFe\\SurFe SoftWare\\SurFeNegocio\\SurFeNegocio.csproj"
+              "C:\\Users\\EZE\\source\\repos\\sistemas4\\SIstemas4\\SurFe SoftWare\\SurFeNegocio\\SurFeNegocio.csproj": {
+                "projectPath": "C:\\Users\\EZE\\source\\repos\\sistemas4\\SIstemas4\\SurFe SoftWare\\SurFeNegocio\\SurFeNegocio.csproj"
               }
             }
           }
@@ -214,14 +214,14 @@
         }
       }
     },
-    "C:\\Users\\EZE\\source\\repos\\SurFeFIN\\SurFe\\SurFe SoftWare\\SurFeNegocio\\SurFeNegocio.csproj": {
+    "C:\\Users\\EZE\\source\\repos\\sistemas4\\SIstemas4\\SurFe SoftWare\\SurFeNegocio\\SurFeNegocio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\EZE\\source\\repos\\SurFeFIN\\SurFe\\SurFe SoftWare\\SurFeNegocio\\SurFeNegocio.csproj",
+        "projectUniqueName": "C:\\Users\\EZE\\source\\repos\\sistemas4\\SIstemas4\\SurFe SoftWare\\SurFeNegocio\\SurFeNegocio.csproj",
         "projectName": "SurFeNegocio",
-        "projectPath": "C:\\Users\\EZE\\source\\repos\\SurFeFIN\\SurFe\\SurFe SoftWare\\SurFeNegocio\\SurFeNegocio.csproj",
+        "projectPath": "C:\\Users\\EZE\\source\\repos\\sistemas4\\SIstemas4\\SurFe SoftWare\\SurFeNegocio\\SurFeNegocio.csproj",
         "packagesPath": "C:\\Users\\EZE\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\EZE\\source\\repos\\SurFeFIN\\SurFe\\SurFe SoftWare\\SurFeNegocio\\obj\\",
+        "outputPath": "C:\\Users\\EZE\\source\\repos\\sistemas4\\SIstemas4\\SurFe SoftWare\\SurFeNegocio\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -243,11 +243,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\EZE\\source\\repos\\SurFeFIN\\SurFe\\SurFe SoftWare\\SurFeDatos\\SurFeDatos.csproj": {
-                "projectPath": "C:\\Users\\EZE\\source\\repos\\SurFeFIN\\SurFe\\SurFe SoftWare\\SurFeDatos\\SurFeDatos.csproj"
+              "C:\\Users\\EZE\\source\\repos\\sistemas4\\SIstemas4\\SurFe SoftWare\\SurFeDatos\\SurFeDatos.csproj": {
+                "projectPath": "C:\\Users\\EZE\\source\\repos\\sistemas4\\SIstemas4\\SurFe SoftWare\\SurFeDatos\\SurFeDatos.csproj"
               },
-              "C:\\Users\\EZE\\source\\repos\\SurFeFIN\\SurFe\\SurFe SoftWare\\SurFeEntidades\\SurFeEntidades.csproj": {
-                "projectPath": "C:\\Users\\EZE\\source\\repos\\SurFeFIN\\SurFe\\SurFe SoftWare\\SurFeEntidades\\SurFeEntidades.csproj"
+              "C:\\Users\\EZE\\source\\repos\\sistemas4\\SIstemas4\\SurFe SoftWare\\SurFeEntidades\\SurFeEntidades.csproj": {
+                "projectPath": "C:\\Users\\EZE\\source\\repos\\sistemas4\\SIstemas4\\SurFe SoftWare\\SurFeEntidades\\SurFeEntidades.csproj"
               }
             }
           }
